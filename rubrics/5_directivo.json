@@ -1,6 +1,6 @@
 {
     "rubric_competency":  "Mapa de Competencias Básicas. Competencia 5 · Junta de Andalucía",
-    "rubric_title":  "Cooperación y colaboración",
+    "rubric_title":  "Cooperación y Colaboración",
     "rubric_rol":  "Rol directivo",
     "rubric_definition":  "Definición de la competencia: Trabajar de forma abierta y colaborativa, tanto con el grupo de trabajo propio como con otras personas profesionales, proveedoras y/o usuarias, para alcanzar objetivos comunes, generando y manteniendo relaciones de confianza.",
     "rubric_instructions":  "Valora en qué nivel realizas cada una de las actuaciones de los 5 comportamientos observables.",
@@ -98,7 +98,7 @@
                                                                     "min":  0,
                                                                     "max":  24,
                                                                     "label":  "Nivel 0 · Insuficiente",
-                                                                    "description":  "Nivel de desempeño insuficiente. No disponer de evidencias suficientes de los comportamientos que integran la competencia Colaboración y Cooperación. La manifestación de la competencia resulta inexistente o muy limitada."
+                                                                    "description":  "Nivel de desempeño insuficiente. No disponer de evidencias suficientes de los comportamientos que integran la competencia Cooperación y Colaboración. La manifestación de la competencia resulta inexistente o muy limitada."
                                                                 },
                                                                 {
                                                                     "level":  1,
